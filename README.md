@@ -84,7 +84,7 @@ Primary keys, foreign keys, check constraints, unique constraints, and indexes w
 
 ## 🧪 Data Generation
 
-Synthetic data was generated with Python rather than using real banking information. This keeps the project safe for portfolio use while allowing realistic business scenarios to be simulated.
+Synthetic data was generated with Python rather than using real banking information.
 
 ### Generation approach
 
